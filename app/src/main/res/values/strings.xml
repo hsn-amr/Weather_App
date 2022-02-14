@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="last_update">Last Update at: %1$s %2$s %3$s, %4$s:%5$s %6$s</string>
+    <string name="hour_minute_am_or_pm">%1$s:%2$s %3$s</string>
+    <string name="enter_your_zip_code">Enter Your Zip Code</string>
+    <string name="submit">Submit</string>
+</resources>
